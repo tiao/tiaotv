@@ -1,9 +1,5 @@
 /*! http://responsiveslides.com v1.54 by @viljamis */
 
-html {
-  background: #222 url("images/bg.png") repeat;
-}
-
 .rslides {
   position: relative;
   list-style: none;
